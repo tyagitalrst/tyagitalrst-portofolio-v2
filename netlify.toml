@@ -1,6 +1,7 @@
 [build]
   command = "npm run generate"
-  publish = ".output/public"
+  publish = "dist"
 
 [build.environment]
   NODE_VERSION = "20"
+  NITRO_PRESET = "static"
