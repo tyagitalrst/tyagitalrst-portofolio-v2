@@ -68,7 +68,7 @@ export function useResumeData(): ResumeData {
         role: 'Front-end Engineer',
         company: 'Advotics – Supply Chain SaaS',
         location: 'Jakarta, Indonesia',
-        period: 'Aug 2020 – Present',
+        period: 'Aug 2020 – May 2026',
         bullets: [
           'Developed and maintained performant, scalable UI features using JavaScript (ES6), Vue, Vuex, HTML, and (S)CSS.',
           'Performed thorough debugging, bug fixes, and code reviews to uphold code quality standards.',
